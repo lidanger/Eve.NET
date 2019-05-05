@@ -1,6 +1,6 @@
 Eve.NET [![Build status](https://ci.appveyor.com/api/projects/status/gvd1i4565flupru6?svg=true)](https://ci.appveyor.com/project/nicolaiarocci/eve-net)
 =======
-Eve.NET 是一个简单的用于 [Eve 框架][1] 生成的 Web 服务的 HTTP 和 REST 客户端。它同时使用 `System.Net.HttpClient` 和 `Json.NET` 来提供 .NET 平台最好的 Eve 体验。
+Eve.NET 是一个简单的用于 [Eve 框架][1] 支持的 Web 服务的 HTTP 和 REST 客户端。它同时使用 `System.Net.HttpClient` 和 `Json.NET` 来提供 .NET 平台最好的 Eve 体验。
 
 跨平台
 --------------
